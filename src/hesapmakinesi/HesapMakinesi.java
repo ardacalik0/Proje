@@ -47,7 +47,7 @@ public class HesapMakinesi {
                 return; 
         }
 
-        // Sonucu ekrana yazdır
+      
         System.out.println("\nSonuç: " + sayi1 + " " + operator + " " + sayi2 + " = " + sonuc);
         
         input.close(); 
